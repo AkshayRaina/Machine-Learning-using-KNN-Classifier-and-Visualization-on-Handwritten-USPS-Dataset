@@ -32,7 +32,7 @@ Demonstration of how to load USPS dataset, visualize and build a K - Neighbors c
 
 ---
 
-Assignment 1 - Submitted by Akshay Raina (Id: 1001789877)
+
 
 **Download, Extract Dataset from .zip and place with Python Notebook together**
 """
