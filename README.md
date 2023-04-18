@@ -7,7 +7,7 @@ Machine Learning using KNN Classifier and Visualization on Handwritten USPS Data
 
 #### References and Citations:
 
-[Kaggle Dataset](https://www.kaggle.com/bistaumanga/usps-dataset) | [Kaggle - Heart Disease Classification](https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning) | [Github - Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow 03.Classification.ipynb](https://nbviewer.jupyter.org/github/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/03.Classification.ipynb)
+[Kaggle Dataset](https://www.kaggle.com/bistaumanga/usps-dataset) | [Kaggle - Heart Disease Classification](https://www.kaggle.com/cdabakoglu/heart-disease-classifications-machine-learning) | [Github - Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow 03.Classification.ipynb](https://nbviewer.jupyter.org/github/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Keras-and-TensorFlow/blob/master/03.Classification.ipynb) | [Another Kaggle Reference](https://www.kaggle.com/code/bibiamnabibi/using-k-nn-to-recognise-handwritten-usps-digits)
 
 #### Textbook 
 
