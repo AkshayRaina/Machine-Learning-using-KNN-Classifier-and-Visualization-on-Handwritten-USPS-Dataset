@@ -14,3 +14,5 @@ Machine Learning using KNN Classifier and Visualization on Handwritten USPS Data
 Introduction to Machine Learning with Python ,A Guide for Data Scientists by Andreas C. Müller and Sarah Guido
 
 #### Demonstration of how to load USPS dataset, visualize and build a K - Neighbors classifier on it that achieves over 90% accuracy over the test set.
+
+NOTE: Do not Plagiarise | Submitted Report for project | Strict checks in place
